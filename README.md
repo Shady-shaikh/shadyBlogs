@@ -1,39 +1,44 @@
-## Welcome to GitHub Pages
+# shadyBlogs
 
-You can use the [editor on GitHub](https://github.com/Shady-shaikh/shadyBlogs.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+A beautiful template for blogs
 
-website url: https://shady-shaikh.github.io/shadyBlogs/
+## Description
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+shadyBlogs is a simple yet attractive template i build using bootstrap framework
 
-### Markdown
+## Getting Started
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Dependencies
 
-```markdown
-Syntax highlighted code block
+* Bootstrap
 
-# Header 1
-## Header 2
-### Header 3
+### Installing
 
-- Bulleted
-- List
+* Clone the repository: git clone https://github.com/Shady-shaikh/shadyBlogs.git
+* Navigate to the project directory: cd shadyBlogs
 
-1. Numbered
-2. List
+### Site Details
 
-**Bold** and _Italic_ and `Code` text
+* Url https://shady-shaikh.github.io/shadyBlogs/
 
-[Link](url) and ![Image](src)
-```
+### Executing program
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* How to run the program
+* Open index.html in your browser:
+You can simply open the index.html file in your favorite web browser to view the website locally.
 
-### Jekyll Themes
+## Usage
+* Multi-Page blog template site
+* You can check the design for multiple page
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shady-shaikh/shadyBlogs.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Authors
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Contributors names and contact info
+
+* Abu Osama Shaikh  
+* https://www.linkedin.com/in/usama-shaikh-81294a306/
+* usashaikh86@gmail.com
+
+
+
