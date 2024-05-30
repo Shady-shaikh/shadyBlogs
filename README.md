@@ -1,6 +1,6 @@
 # shadyBlogs
 
-A beautiful template for blogs
+New standard template for blogs
 
 ## Description
 
